@@ -4,3 +4,4 @@ streamlit
 matplotlib
 streamlit_chat
 langchain
+plotly
