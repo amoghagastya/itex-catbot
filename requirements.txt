@@ -5,3 +5,5 @@ matplotlib
 streamlit_chat
 langchain
 plotly
+scipy
+scikit-learn
